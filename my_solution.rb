@@ -1,8 +1,9 @@
 #Defining Variables
 
 # Tu solucion abajo
-
-
+puts first_name = "Julian"
+puts last_name = "Hurtado"
+puts age = 19
 # Pruebas NO LAS BORRES
 
 
